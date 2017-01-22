@@ -5,7 +5,7 @@ title: GOLD CONSULTING
 description: "Gold Consulting szocialis szövetkezet weboldala"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/gold" #important: start with /
-url: "http://104.223.53.198"
+url: "https://vestalux.github.io"
 
 # Build settings
 markdown: kramdown

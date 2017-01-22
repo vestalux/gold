@@ -1,0 +1,7 @@
+---
+layout: post
+title: A Környezetközpontú technológia fejlesztése
+created: 1280912669
+categories: []
+---
+<table border="0"><tbody><tr><td><strong>Pályázat címe:</strong></td><td>GOP-2009-2.1.4/ K, KMOP-2009-1.2.4/ A Környezetközpontú technológia fejlesztése</td></tr><tr><td><strong>Pályázat célja:</strong></td><td>A vállalkozások olyan technológiai fejlesztése, amely hozzájárul a működési, valamint termelési folyamatok tudatos környezetbaráttá válásához.</td></tr><tr><td><strong>Megvalósítás helye:</strong></td><td>Magyarországi székhelyű, valamennyi régió, valamint Európai Gazdasági Térség területi székhelyű, magyarországi fióktelep<p><br />GOP-2009-2.1.4/ K esetében nem támogatott a KMR<br />KMOP-2009-1.2.4/ A esetében csak a KMR támogatott</p></td></tr><tr><td><strong>Pályázók köre:</strong></td><td>Kettős könyvvitelt vezető gazdasági társaságok (kivétel non-profit), szövetkezetek és SZJA hatálya alá tartozó egyéni vállalkozók</td></tr><tr><td><strong>Támogatás formája:</strong></td><td>Minimum 5.000.000 Ft, maximum 125.000.000 Ft</td></tr><tr><td><strong>Támogatás mértéke:</strong></td><td>GOP-2009-2.1.4/ K: Mikro-, Kis-, Középvállalkozások: 50%, Nagyvállatok: 30%KMOP-2009-1.2.4/ A:&nbsp; Mikro-, Kis-, Középvállalkozások: 40% Nagyvállatok: 20%</td></tr><tr><td><strong>Beadási határidő:</strong></td><td>2010. március 1- 2010. augusztus 31</td></tr><tr><td><strong>Bírálat:</strong></td><td>Folyamatos</td></tr></tbody></table><!--break-->

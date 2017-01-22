@@ -1,0 +1,7 @@
+---
+layout: post
+title: Vállalati kutatás-fejlesztési kapacitás erősítése
+created: 1280739530
+categories: []
+---
+<table border="0"><tbody><tr><td><strong>Pályázat címe:</strong></td><td>GOP-2009-1.3.2, KMOP-2009-1.1.5 Vállalati kutatás-fejlesztési kapacitás erősítése</td></tr><tr><td><strong>Pályázat célja:</strong></td><td>Korszerű munkahelyek létrehozása és bővítése, infrastruktúra fejlesztés és munkahelyek létrehozásának támogatásával.</td></tr><tr><td><strong>Megvalósítás helye:</strong></td><td>Magyarországi székhelyű, valamennyi régió, valamint Európai Gazdasági Térség területi székhelyű, magyarországi fióktelep<p>&nbsp;</p><p>GOP-2009-1.3.2 esetében nem támogatott a KMR  KMOP-2009-1.1.5 esetében csak a KMR támogatott</p></td></tr><tr><td><strong>Pályázók köre:</strong></td><td>Olyan kettős könyvvitelt vezető gazdasági társaságok (kivétel non-profit)<strong>, </strong>amelyek nem tartóznak az EVA hatálya alá Méret: MKKNV</td></tr><tr><td><strong>Támogatás formája:</strong></td><td>Minimum 250.000.000 Ft, maximum 1.500.000.000 Ft</td></tr><tr><td><strong>Támogatás mértéke:</strong></td><td>GOP-2009-1.3.2: 60% KMOP-2009-1.1.5: 25%</td></tr><tr><td><strong>Beadási határidő:</strong></td><td>GOP-2009-1.3.2: 2009.augusztus 31- 2011. január 10. KMOP-2009-1.1.5: 2009. augusztus 31- 2010. július 5.</td></tr><tr><td><strong>Bírálat:</strong></td><td>GOP-2009-1.3.2: folyamatosan KMOP-2009-1.1.5: szakaszosan</td></tr></tbody></table>

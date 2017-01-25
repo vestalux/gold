@@ -7,6 +7,10 @@ analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://new.goldconsulting.eu"
 
+sass:
+  sass_dir: assets/css
+  style: :nested
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title

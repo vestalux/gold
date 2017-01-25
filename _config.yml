@@ -4,8 +4,8 @@ encoding: utf-8
 title: GOLD CONSULTING
 description: "Gold Consulting szocialis szövetkezet weboldala"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: "https://vestalux.github.io/gold/"
+baseurl: "https://vestalux.github.io/gold/" #important: start with /
+url: ""
 
 # Build settings
 markdown: kramdown
